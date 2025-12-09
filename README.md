@@ -1,3 +1,5 @@
-# gryder
+# gryder_lab_IHK44
 
-Pipelines and scripts that I used/modified in the Gryder Lab for the IHK-44 paper.
+Scripts used in the Gryder Lab for the IHK-44 paper.
+
+All inquires can be directed to msc148@case.edu.
